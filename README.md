@@ -6,8 +6,7 @@ A text editor pwa that allows the user to write text and install the application
 
 # Application
 
-The application is deployed here: https://dashboard.heroku.com/apps/agroat-jate
-
+The application is deployed here: https://text-editor-agroat.herokuapp.com/
 # Technologies
 
 Nodemon
